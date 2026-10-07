@@ -1,0 +1,6 @@
+{
+  "name": "NexusBI — AI-Powered Sales Analytics & Business Intelligence System",
+  "description": "End-to-end M.Sc. Data Science enterprise sales analytics platform featuring automated data validation & cleaning, relational SQL storage, machine learning forecasting, RFM K-Means segmentation, Isolation Forest anomaly detection, and verified Gemini AI business intelligence recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
